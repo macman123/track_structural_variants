@@ -33,8 +33,7 @@ R (v4.0.2+) with the following libraries:
 ############################
 
 !! Flip all of the sequences/contigs you wish to analyse such that the gene of interest is always facing the same direction !!
-!! If you wish to inspect the structural variations upstream of the gene then flip the gene sequence and all of the contigs 
-   to face the opposite direction !!
+!! If you wish to inspect the structural variations upstream of the gene then flip the gene sequence and all of the contigs to face the opposite direction !!
 
 
 #############################
@@ -46,9 +45,7 @@ Run the scripts within this directory in the following order:
 2) blast2net.py
 3) track_variants.R
 
-These are scripts, so you will have to change parts of the code to make them work. Usually these are file paths and variables.
-Each script contains coments which are here to help one understand the code.
-There is also a test dataset which you are free to run to familiarise yourself with the scripts or to troubleshoot. 
+These are scripts, so you will have to change parts of the code to make them work. Usually these are file paths and variables. Each script contains coments which are here to help one understand the code. There is also a test dataset which you are free to run to familiarise yourself with the scripts or to troubleshoot. 
 
 
 
